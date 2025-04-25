@@ -1,0 +1,7 @@
+font-family = "DinaRemasterII"
+window-inherit-font-size = false
+font-size = 16
+theme = zenburn
+shell-integration = fish
+keybind = global:cmd+grave_accent=toggle_quick_terminal
+
